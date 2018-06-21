@@ -1,1 +1,8 @@
-# Visi-n-Introductoria-Gestion-Acad-mica
+# Visión Introductoria
+
+## Integrantes
+
+- Dwan Felipe Veloza Paez
+- Anderson Fabian Solano Cubillos
+- Charles Andres Hurtado Hidalgo
+

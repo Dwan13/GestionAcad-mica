@@ -1,4 +1,4 @@
-# Visión Introductoria
+# Sistema Gestion Académica
 
 ## Integrantes
 
@@ -6,3 +6,6 @@
 - Anderson Fabian Solano Cubillos
 - Charles Andres Hurtado Hidalgo
 
+### Vista Introductoria
+
+### Vista Organizacional

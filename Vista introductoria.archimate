@@ -19,6 +19,8 @@
     <element xsi:type="archimate:BusinessService" name="Cargar Datos Personales" id="4faf7bf2-1a40-4431-9682-8d282afa5930"/>
     <element xsi:type="archimate:BusinessProcess" name="Generar Reporte de notas" id="62ea0088-1a11-41dc-8264-1af717a5fb11"/>
     <element xsi:type="archimate:BusinessProcess" name="Modificar Notas" id="0c518498-8418-406c-934f-db318bc79faf"/>
+    <element xsi:type="archimate:BusinessProcess" name="Cargar XML" id="cba1976c-417c-48c9-9834-9b111e241fde"/>
+    <element xsi:type="archimate:BusinessProcess" name="Procesar XML" id="c72810d0-6c9c-4b80-b462-9be6cf25df76"/>
   </folder>
   <folder name="Application" id="a8154e2c-c42f-4e9a-b7f6-7f5045299e52" type="application">
     <element xsi:type="archimate:DataObject" name="Microserver Architect" id="19d34156-2f3b-4d7b-bede-573f230a092e"/>
@@ -55,6 +57,8 @@
     <element xsi:type="archimate:AssociationRelationship" id="54d27d3f-376a-4a1a-ac8d-276d4ec1391e" source="d97cbecc-6020-4808-9361-e50f358e95d6" target="f343e584-2169-4129-b682-5bb225664360"/>
     <element xsi:type="archimate:TriggeringRelationship" id="59e148d3-938c-4af1-be66-e4af02b83605" source="0027c4ad-8e74-4fa0-84c8-af5cc92af3e0" target="bea24588-d479-4521-a5f2-bb777aaf5931"/>
     <element xsi:type="archimate:AssociationRelationship" id="d45f7390-4c75-4501-962e-9c63b6c11614" source="bea24588-d479-4521-a5f2-bb777aaf5931" target="d97cbecc-6020-4808-9361-e50f358e95d6"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="a002c673-6ffb-40f4-b590-b7bb1b32eed1" source="cba1976c-417c-48c9-9834-9b111e241fde" target="c72810d0-6c9c-4b80-b462-9be6cf25df76"/>
+    <element xsi:type="archimate:TriggeringRelationship" id="78c4da0c-8deb-491d-80d1-c66a95b208a3" source="c72810d0-6c9c-4b80-b462-9be6cf25df76" target="62ea0088-1a11-41dc-8264-1af717a5fb11"/>
   </folder>
   <folder name="Views" id="3d60d9a1-7830-401c-8389-b72b4e57ff2a" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="e4079c60-50f5-4b08-8a58-b06a4d93325b">
@@ -104,8 +108,16 @@
       <child xsi:type="archimate:DiagramObject" id="02ad85cc-ba8d-4d12-90bf-6ad0d534efc2" targetConnections="61b05755-8ce7-44df-b72f-defe057b57cd" archimateElement="d97cbecc-6020-4808-9361-e50f358e95d6">
         <bounds x="324" y="240" width="504" height="168"/>
         <sourceConnection xsi:type="archimate:Connection" id="1555379a-0368-4b75-83d9-aba42908f653" source="02ad85cc-ba8d-4d12-90bf-6ad0d534efc2" target="036b9e0e-bbb4-4cd2-a715-cffb95b6c1be" archimateRelationship="54d27d3f-376a-4a1a-ac8d-276d4ec1391e"/>
-        <child xsi:type="archimate:DiagramObject" id="7ad0a588-6204-4d7a-95ee-8dda5f83a629" archimateElement="62ea0088-1a11-41dc-8264-1af717a5fb11">
-          <bounds x="36" y="60" width="128" height="64"/>
+        <child xsi:type="archimate:DiagramObject" id="7ad0a588-6204-4d7a-95ee-8dda5f83a629" targetConnections="834fe30a-35a2-4251-afd0-117de0d97f07" archimateElement="62ea0088-1a11-41dc-8264-1af717a5fb11">
+          <bounds x="348" y="60" width="128" height="64"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="d29609cb-17f1-4573-aceb-86790721a4a4" archimateElement="cba1976c-417c-48c9-9834-9b111e241fde">
+          <bounds x="48" y="64" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="f2f27576-e342-429f-bc52-91c204292bef" source="d29609cb-17f1-4573-aceb-86790721a4a4" target="da94afc8-6e70-4a94-a706-95a6da99175f" archimateRelationship="a002c673-6ffb-40f4-b590-b7bb1b32eed1"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="da94afc8-6e70-4a94-a706-95a6da99175f" targetConnections="f2f27576-e342-429f-bc52-91c204292bef" archimateElement="c72810d0-6c9c-4b80-b462-9be6cf25df76">
+          <bounds x="192" y="64" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="834fe30a-35a2-4251-afd0-117de0d97f07" source="da94afc8-6e70-4a94-a706-95a6da99175f" target="7ad0a588-6204-4d7a-95ee-8dda5f83a629" archimateRelationship="78c4da0c-8deb-491d-80d1-c66a95b208a3"/>
         </child>
       </child>
     </element>

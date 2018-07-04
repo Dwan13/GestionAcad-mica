@@ -8,7 +8,7 @@
 
 ## MARCO TEÓRICO
 
-### Serverlesss
+### Serverless
 
 Dentro de nuestra idea de negocio hemos decidido usar la informática sin servidores que básicamente nos permite mejorar el backend de nuestra propuesta Arquitectural de software al permitirnos escalar la aplicación.
 

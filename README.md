@@ -6,6 +6,26 @@
 - Anderson Fabian Solano Cubillos
 - Charles Andres Hurtado Hidalgo
 
+## MARCO TEÓRICO
+
+### Serverlesss
+
+Dentro de nuestra idea de negocio hemos decidido usar la informática sin servidores que básicamente nos permite mejorar el backend de nuestra propuesta Arquitectural de software al permitirnos escalar la aplicación.
+
+![](https://d1.awsstatic.com/Test%20Images/MasonTests/Lambda_WebApplications.2139ddbc8a84f5564ee5846995f28c88e9db5c2d.png)
+
+##### Sitio Web estático
+
+En este módulo va a configurar Amazon Simple Storage Service (S3) para alojar los recursos estáticos para su aplicación web. En los posteriores módulos agregará la funcionalidad dinámica a estas páginas con JavaScript para llamar a las API RESTful remotas creadas con AWS Lambda y Amazon API Gateway.
+
+##### Administración de usuarios
+##### Backend sin servidor
+##### Api RESTful
+##### Finalización de Recursos
+
+### Miscrosevers
+
+
 ### Vista Introductoria
 
 ![](https://scontent.fclo1-2.fna.fbcdn.net/v/t1.0-9/34962286_1706231626162524_4713506640609935360_n.jpg?_nc_cat=0&_nc_eui2=AeFA3LABhPvfPXTEEhRH2xrynSd4duO703wb01H-4d4_EtHHYNwxuhy2ktDkXqoNOZ01OY3ys5Ae8Qeg-Hf6M3KRkzuOhidxlYetZCRlL1BrQw&oh=9dde1bffc4b4e574c5d69b7ca3ceb29a&oe=5BE9AF97)

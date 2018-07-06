@@ -19,9 +19,20 @@ Dentro de nuestra idea de negocio hemos decidido usar la informática sin servid
 En este módulo va a configurar Amazon Simple Storage Service (S3) para alojar los recursos estáticos para su aplicación web. En los posteriores módulos agregará la funcionalidad dinámica a estas páginas con JavaScript para llamar a las API RESTful remotas creadas con AWS Lambda y Amazon API Gateway.
 
 ##### Administración de usuarios
+
+Amazon Cognito ofrece funciones de administración de usuarios y de autenticación para proteger la API del backend.
+
 ##### Backend sin servidor
+
+Amazon DynamoDB ofrece una capa de persistencia en la que se pueden almacenar los datos por la función de Lambda de la API.
+
 ##### Api RESTful
+
+JavaScript ejecutado en el navegador envía y recibe datos de una API de backend pública a través de Lambda y API Gateway.
+
 ##### Finalización de Recursos
+
+Usted terminará un bucket de Amazon S3, un grupo de usuarios de Amazon Cognito, una función de AWS Lambda, una función de IAM, una tabla de DynamoDB, una API REST y un CloudWatch Log. Se recomienda eliminar los recursos que ya no utilice para evitar cargos no deseados.
 
 ### Miscrosevers
 
@@ -45,3 +56,7 @@ En este módulo va a configurar Amazon Simple Storage Service (S3) para alojar l
 ### Vista Procesos de Negocio
 
 ![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Vista%20Proceso%20de%20Negocio.bmp?raw=true)
+
+### Vista Aplicación Cooperación
+
+![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/CooApp.bmp?raw=true)

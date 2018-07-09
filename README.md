@@ -55,8 +55,88 @@ Usted terminará un bucket de Amazon S3, un grupo de usuarios de Amazon Cognito,
 
 ### Vista Procesos de Negocio
 
-![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Vista%20Proceso%20de%20Negocio.bmp?raw=true)
+#### Función Inscribir Aspirante
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20de%20inscripci%C3%B3n%20aspirante.bmp)
+
+#### Función Activar Estudiante 
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20Activar%20estudiante.bmp)
+
+#### Función Crear Recibo de Pago
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20Crear%20Recibo%20de%20pago.bmp)
+
+#### Función Consignar
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20de%20consignar.bmp)
+
+#### Función inscripción de materias
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20Inscripci%C3%B3n%20de%20materias.bmp)
+
+#### Función Disponer Docente
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20Inscripci%C3%B3n%20de%20materias.bmp)
+
+#### Función Gestor de Notas
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20gestor%20de%20notas.bmp)
+
+#### Función Horario de clases
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20horario%20de%20clases.bmp)
+
+#### Función Presupuesto Universitario
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20presupuesto%20Universidad.bmp)
+
+#### Función Solicitar Apoyo alimentario
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Funci%C3%B3n%20solicitar%20Apoyo%20alimentario.bmp)
 
 ### Vista Aplicación Cooperación
 
 ![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/CooApp.bmp?raw=true)
+
+### Vista Aplicación-Negocio
+
+#### Apoyo Alimentario
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Apoyo%20Alimentario.bmp)
+
+#### Consignar
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Consignar.bmp)
+
+#### Crear Estudiante
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Crear%20Estudiante.bmp)
+
+#### Crear Recibo de pago
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Crear%20Recibo%20de%20pago.bmp)
+
+#### Disponer Docente
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Disponer%20Docente.bmp)
+
+#### Gestor de notas
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Gestor%20de%20notas.bmp)
+
+#### Horario de clases
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Horario%20de%20clases.bmp)
+
+#### Inscribir Materias
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Inscribir%20materias.bmp)
+
+#### Inscribir Aspirante
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Inscripci%C3%B3n%20de%20aspirante.bmp)
+
+#### Presupuesto Universitario
+
+![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Presupuesto%20universidad.bmp)

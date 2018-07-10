@@ -43,6 +43,7 @@ Usted terminará un bucket de Amazon S3, un grupo de usuarios de Amazon Cognito,
 La arquitectura de microservicios ha sido el término de moda en los últimos tiempos, pero la idea no es nueva en absoluto. De hecho, es bastante similar al patrón SOA que fue muy popular hace unos años. Tanto los microservicios como SOA se tratan de descomponer aplicaciones en servicios más pequeños para escalamiento y manejo de ciclos de vida más eficientes. Sin embargo, no son iguales, según lo explicado en un completo post Martin Fowler. Mientras que SOA es un concepto general y puede significar muchas cosas, la arquitectura de microservicios describe un modo particular de construir aplicaciones con servicios muy pequeños, cada uno de los cuales se enfoca en hacer sólo una cosa bien.
 
 Hay dos razones por las cuales los microservicios están ganando popularidad. En primer lugar, como los aplicativos son cada vez más complejos, la arquitectura monolítica tradicional ya no cumple con las necesidades de escalabilidad y ciclo de desarrollo rápido (en la siguiente sección veremos cómo los microservicios lo hacen posible). En segundo lugar, el éxito de grandes compañías de Internet, principalmente Netflix, al implementar la arquitectura de microservicios, es una gran motivación para que otras empresas consideren hacer el cambio.
+</div>
 
 #### AWS Step Functions
 
@@ -50,7 +51,7 @@ AWS Step Functions facilita la coordinación de componentes de aplicaciones y mi
 
 AWS Step Functions administra las operaciones y la infraestructura subyacente para ayudarle a garantizar que su aplicación se encuentre disponible a cualquier escala.
 
-</div>
+
 
 ### Vista Introductoria
 

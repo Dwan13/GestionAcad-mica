@@ -140,3 +140,7 @@ Usted terminará un bucket de Amazon S3, un grupo de usuarios de Amazon Cognito,
 #### Presupuesto Universitario
 
 ![](https://raw.githubusercontent.com/Dwan13/GestionAcad-mica/master/Im%C3%A1genes/Aplicaci%C3%B3n-Negoci%C3%B3n%20Presupuesto%20universidad.bmp)
+
+### Vista de infraestructura
+
+![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Infraestructura.bmp?raw=true)

@@ -37,7 +37,7 @@ Usted terminará un bucket de Amazon S3, un grupo de usuarios de Amazon Cognito,
 ### Miscrosevers
 
 ![](https://i1.wp.com/asesoftware.com/site/wp-content/uploads/2016/03/blog_3_.png?resize=300%2C243)
-
+<div class=text-justify> 
 La arquitectura de microservicios ha sido el término de moda en los últimos tiempos, pero la idea no es nueva en absoluto. De hecho, es bastante similar al patrón SOA que fue muy popular hace unos años. Tanto los microservicios como SOA se tratan de descomponer aplicaciones en servicios más pequeños para escalamiento y manejo de ciclos de vida más eficientes. Sin embargo, no son iguales, según lo explicado en un completo post Martin Fowler. Mientras que SOA es un concepto general y puede significar muchas cosas, la arquitectura de microservicios describe un modo particular de construir aplicaciones con servicios muy pequeños, cada uno de los cuales se enfoca en hacer sólo una cosa bien.
 
 Hay dos razones por las cuales los microservicios están ganando popularidad. En primer lugar, como los aplicativos son cada vez más complejos, la arquitectura monolítica tradicional ya no cumple con las necesidades de escalabilidad y ciclo de desarrollo rápido (en la siguiente sección veremos cómo los microservicios lo hacen posible). En segundo lugar, el éxito de grandes compañías de Internet, principalmente Netflix, al implementar la arquitectura de microservicios, es una gran motivación para que otras empresas consideren hacer el cambio.
@@ -47,7 +47,7 @@ Hay dos razones por las cuales los microservicios están ganando popularidad. En
 AWS Step Functions facilita la coordinación de componentes de aplicaciones y microservicios distribuidos con flujos de trabajo visuales. La creación de aplicaciones a partir de componentes individuales que desempeñan cada uno una función discreta le permite escalar y modificar sus aplicaciones con rapidez. Step Functions es una manera fiable de coordinar los componentes y procesar las funciones de su aplicación. Step Functions proporciona una consola gráfica con la que ordenar y visualizar los componentes de su aplicación en varios pasos. De este modo, crear y ejecutar aplicaciones multipaso resulta sencillo. Step Functions activa y monitoriza cada paso de manera automática, y realiza reintentos cuando se producen errores, por lo que su aplicación se ejecuta en orden y según lo previsto. Step Functions registra el estado de cada paso, de manera que, cuando algo sale mal, puede diagnosticar y depurar los problemas con rapidez. Puede cambiar y agregar pasos sin escribir código, lo que le permite evolucionar la aplicación con facilidad e innovar con mayor velocidad.
 
 AWS Step Functions administra las operaciones y la infraestructura subyacente para ayudarle a garantizar que su aplicación se encuentre disponible a cualquier escala.
-
+</div>
 ### Vista Introductoria
 
 ![](https://scontent.fclo1-2.fna.fbcdn.net/v/t1.0-9/34962286_1706231626162524_4713506640609935360_n.jpg?_nc_cat=0&_nc_eui2=AeFA3LABhPvfPXTEEhRH2xrynSd4duO703wb01H-4d4_EtHHYNwxuhy2ktDkXqoNOZ01OY3ys5Ae8Qeg-Hf6M3KRkzuOhidxlYetZCRlL1BrQw&oh=9dde1bffc4b4e574c5d69b7ca3ceb29a&oe=5BE9AF97)

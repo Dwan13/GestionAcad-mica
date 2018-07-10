@@ -160,3 +160,16 @@ AWS Step Functions administra las operaciones y la infraestructura subyacente pa
 ### Vista de infraestructura
 
 ![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Infraestructura.bmp?raw=true)
+
+### Vista Uso de la Infraestructura
+#### Administración
+
+![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Administraci%C3%B3n%20uso%20de%20infraestructura.bmp?raw=true)
+
+#### Académica
+
+![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Acad%C3%A9mica%20uso%20de%20infraestructura.bmp?raw=true)
+
+#### Financiera
+
+![](https://github.com/Dwan13/GestionAcad-mica/blob/master/Im%C3%A1genes/Financierda%20uso%20de%20la%20infraestructura.bmp?raw=true)
